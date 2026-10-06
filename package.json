@@ -1,0 +1,52 @@
+{
+  "name": "hyue-theme",
+  "displayName": "hyue-theme",
+  "description": "A clean, focused dark theme for Visual Studio Code, designed for comfortable everyday development.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/official-hannahyue/Hyue-Theme"
+  },
+  "bugs": {
+    "url": "https://github.com/official-hannahyue/Hyue-Theme/issues",
+    "email": "itshyue@gmail.com"
+  },
+  "keywords": [
+    "icon-theme",
+    "theme",
+    "Hyue",
+    "Hannah Yue"
+  ],
+  "homepage": "https://github.com/official-hannahyue/Hyue-Theme",
+  "engines": {
+    "vscode": "^1.140.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hyue Minimal Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hyue-minimal-dark.json"
+      },
+      {
+        "label": "Hyue Lime Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hyue-Lime-dark.json"
+      },
+      {
+        "label": "Hyue Pink Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hyue-pink-dark.json"
+      },
+      {
+        "label": "Hyue Blue Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hyue-blue-dark.json"
+      }
+    ]
+  }
+}
