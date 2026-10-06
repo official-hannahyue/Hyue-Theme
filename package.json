@@ -2,7 +2,7 @@
   "name": "hyue-theme",
   "displayName": "hyue-theme",
   "description": "A clean, focused dark theme for Visual Studio Code, designed for comfortable everyday development.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "license": "MIT",
   "publisher": "HannahYue",
   "repository": {
@@ -26,7 +26,7 @@
   "categories": [
     "Themes"
   ],
-    "icon": "./assist/logo.png",
+  "icon": "./assist/logo.png",
   "contributes": {
     "themes": [
       {
