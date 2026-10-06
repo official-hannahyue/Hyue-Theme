@@ -4,9 +4,7 @@
 
 A clean, focused dark theme for Visual Studio Code, designed for comfortable everyday development.
 
-## Preview
-
-> Screenshots coming soon.
+![](assets/20261007_025431_cover.jpg)
 
 ## Features
 
