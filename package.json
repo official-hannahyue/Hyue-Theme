@@ -26,7 +26,7 @@
   "categories": [
     "Themes"
   ],
-  "icon": "./assist/logo.png",
+  "icon": "assets/logo.png",
   "contributes": {
     "themes": [
       {
