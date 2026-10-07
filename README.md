@@ -1,4 +1,5 @@
 # Hyue Theme
+Vscode Marketplace: https://marketplace.visualstudio.com/items?itemName=HannahYue.hyue-theme
 
 > Made By @HannahYue
 
