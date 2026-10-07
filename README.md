@@ -1,11 +1,12 @@
 # Hyue Theme
-Vscode Marketplace: https://marketplace.visualstudio.com/items?itemName=HannahYue.hyue-theme
 
 > Made By @HannahYue
 
 A clean, focused dark theme for Visual Studio Code, designed for comfortable everyday development.
 
 ![](assets/20261007_025431_cover.jpg)
+
+Vscode Marketplace: https://marketplace.visualstudio.com/items?itemName=HannahYue.hyue-theme
 
 ## Features
 
