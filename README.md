@@ -6,6 +6,8 @@ A clean, focused dark theme for Visual Studio Code, designed for comfortable eve
 
 ![](assets/20261007_025431_cover.jpg)
 
+Vscode Marketplace: https://marketplace.visualstudio.com/items?itemName=HannahYue.hyue-theme
+
 ## Features
 
 * Carefully balanced dark interface
