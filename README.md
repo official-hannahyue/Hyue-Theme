@@ -4,7 +4,7 @@
 
 A clean, focused dark theme for Visual Studio Code, designed for comfortable everyday development.
 
-![](assets/20261007_025431_cover.jpg)
+![](assets/cover.jpg)
 
 Vscode Marketplace: https://marketplace.visualstudio.com/items?itemName=HannahYue.hyue-theme
 
@@ -81,3 +81,4 @@ This project is licensed under the [MIT License](https://chatgpt.com/g/g-p-6ac4e
 **Hannah Yue**
 
 GitHub: `@official-hannahyue`
+
